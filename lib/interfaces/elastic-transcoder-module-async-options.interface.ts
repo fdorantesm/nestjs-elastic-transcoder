@@ -1,5 +1,4 @@
 import { ModuleMetadata } from '@nestjs/common/interfaces';
-import { ElasticTranscoder } from '@aws-sdk/client-elastic-transcoder';
 
 export interface ElasticTranscoderModuleAsyncOptions
   extends Pick<ModuleMetadata, 'imports'> {
