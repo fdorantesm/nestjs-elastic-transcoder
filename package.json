@@ -1,6 +1,7 @@
 {
   "name": "nestjs-elastic-transcoder",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "private": false,
   "description": "A NestJS module for AWS Elastic Transcoder",
   "author": "Fernando Dorantes",
   "license": "MIT",
