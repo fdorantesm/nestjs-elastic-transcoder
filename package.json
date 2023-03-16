@@ -1,7 +1,7 @@
 {
-  "name": "nestjs-dynamic-module-template",
+  "name": "nestjs-elastic-transcoder",
   "version": "1.0.0",
-  "description": "A nestjs dynamic module template",
+  "description": "A NestJS module for AWS Elastic Transcoder",
   "author": "Fernando Dorantes",
   "license": "MIT",
   "scripts": {
