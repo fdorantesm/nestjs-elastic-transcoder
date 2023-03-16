@@ -4,6 +4,15 @@
   "description": "A NestJS module for AWS Elastic Transcoder",
   "author": "Fernando Dorantes",
   "license": "MIT",
+  "homepage": "https://github.com/fdorantesm/nestjs-elastic-transcoder",
+  "keywords": [
+    "aws",
+    "elastric-transcoder",
+    "video",
+    "transcoder",
+    "aws-sdk",
+    "client-elastic-transcoder"
+  ],
   "scripts": {
     "lint": "eslint \"lib/**/*.ts\" --fix",
     "format": "prettier \"lib/**/*.ts\" --write",
