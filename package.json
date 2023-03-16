@@ -39,5 +39,8 @@
   },
   "lint-staged": {
     "**/*.{ts,json}": []
+  },
+  "dependencies": {
+    "@aws-sdk/client-elastic-transcoder": "^3.292.0"
   }
 }
